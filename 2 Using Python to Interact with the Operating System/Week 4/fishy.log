@@ -1,4 +1,4 @@
-July 31 00:06:21 mycomputername kernel[96041]: WARN Failed to start network connection
+1July 31 00:06:21 mycomputername kernel[96041]: WARN Failed to start network connection
 July 31 00:09:53 mycomputername updater[46711]: WARN Computer needs to be turned off and on again
 July 31 00:12:36 mycomputername kernel[48462]: INFO Successfully connected
 July 31 00:13:52 mycomputername updater[43530]: ERROR Error running Python2.exe: Segmentation Fault (core dumped)
